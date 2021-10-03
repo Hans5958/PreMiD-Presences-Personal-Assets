@@ -1,0 +1,17 @@
+chart-bar: Font Awesome 5
+cloud-download-alt: Font Awesome 5
+donate: Font Awesome 5
+envelope: Font Awesome 5
+reading: PreMiD
+
+wikispore: Luis giromatic (CC-BY-SA 4.0) (https://meta.wikimedia.org/wiki/File:Wikispore_logo_without_text.svg)
+wikitech: Serhio Magpie, Krinkle (CC-BY-SA 4.0) (https://meta.wikimedia.org/wiki/File:Wikitech-2021-logo-blue-without-wordmark.svg)
+xtools: Ricordisamoa (GPL-3.0) (https://commons.wikimedia.org/wiki/File:XTools_logo.svg)
+incubator: NielsF (CC-BY-SA 3.0) (https://commons.wikimedia.org/wiki/File:Incubator-logo.svg)
+lg: Neolux (Public domain) (https://commons.wikimedia.org/wiki/File:Wikimedia-logo.svg)
+lg-black: Neolux, Wikimedia Foundation (CC-BY-SA 3.0) (https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_logo_-_vertical.svg)
+mediawiki: Serhio Magpie (CC-BY-SA 3.0) (https://meta.wikimedia.org/wiki/File:MediaWiki-2020-large-icon.svg)
+meta: WarX (Public domain) (https://commons.wikimedia.org/wiki/File:Wikimedia_Community_Logo.svg)
+phabricator: Perhelion, Phacility (Apache-2.0) (https://commons.wikimedia.org/wiki/File:Wikimedia_Phabricator_logo.svg)
+wikimania: Kaganer, Tlogmer (CC-BY-SA 3.0) (https://commons.wikimedia.org/wiki/File:Wikimania.svg)
+wikimedia-cloud-services: Brandon Harrisk, Isarra (CC-BY-SA 3.0) (https://meta.wikimedia.org/wiki/File:Wikimedia_Cloud_Services_logo.svg)
